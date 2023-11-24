@@ -4,7 +4,7 @@ Hi 👋 My name is Sara González
 Web Developer
 -------------
 
-I've been learing to code for 4 years and working for 2. I usually work on backend but I also love frontend development.
+I've been learing to code for 5 years and working for 2. I usually work on backend but I also love frontend development.
 
 * 🌍  I'm based in Canary Islands, Spain
 * ✉️  You can contact me at [saraglezm94@gmail.com](mailto:saraglezm94@gmail.com)
