@@ -5,7 +5,7 @@
 
 - 🌍  I'm based in Canary Islands, Spain
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular** <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="20" height="20"/> </a> 
 
 - 📫 How to reach me [saraglezm94@gmail.com](mailto:saraglezm94@gmail.com)
 
