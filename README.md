@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-  <div align="center">
+  <div align="center" width="50%">
     <h4>Programming Languages</h4>
     <p align="left">
       <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
@@ -25,7 +25,7 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     </p>
   </div>
-  <div align="center">
+  <div align="center" width="50%">
     <h4>Frontend Development</h4>
     <p align="left">
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -76,6 +76,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saragm94&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="saragm94" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saragm94&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="saragm94" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saragm94&show_icons=true&theme=tokyonight&locale=en" alt="saragm94" /></p>
