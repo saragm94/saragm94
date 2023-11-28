@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 📫 How to reach me **[saraglezm94@gmail.com]** (mailto:saraglezm94@gmail.com)
+- 📫 How to reach me [saraglezm94@gmail.com](mailto:saraglezm94@gmail.com)
 
 - :basketball: On my free time I usually play basketball
 
