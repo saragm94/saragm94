@@ -13,8 +13,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="center">
-  <div align="center" width="50%">
+<div style="display: flex">
+  <div style="flex: 1">
     <h4>Programming Languages</h4>
     <p align="left">
       <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
@@ -25,7 +25,7 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     </p>
   </div>
-  <div align="center" width="50%">
+  <div style="margin-right:5%">
     <h4>Frontend Development</h4>
     <p align="left">
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
