@@ -1,11 +1,15 @@
 <h1>Hi 👋, I'm Sara González</h1>
-<h3>A passionate developer from Spain</h3>
+<h3>A passionate developer</h3>
 
 - 🔭 I’m currently working at **Cibernos**
 
+- 🌍  I'm based in Canary Islands, Spain
+
 - 🌱 I’m currently learning **Angular**
 
-- 📫 How to reach me **saraglezm94@gmail.com**
+- 📫 How to reach me **[saraglezm94@gmail.com]** (mailto:saraglezm94@gmail.com)
+
+- :basketball: On my free time I usually play basketball
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
