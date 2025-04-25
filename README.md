@@ -1,4 +1,11 @@
 # 💫 About Me:
+<div align="center">
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXE4bDc1aXAwY2J2ZW9wZHg1Mjg0MGFnNDAzMzNmZ3V0Z3Nnam5oNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbtJJPft2P7rcpbBdb/giphy.gif"  />
+</div>
+
+###
+
+
 🔭 I’m currently working at Cibernos<br><br>🌍 I'm based in Canary Islands, Spain<br><br>🌱 I’m currently learning Angular<br><br>📫 How to reach me saraglezm94@gmail.com<br><br>🏀 On my free time I usually play basketball
 
 # 💻 Tech Stack:
