@@ -15,4 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saragm94&show_icons=true&theme=tokyonight&locale=en" alt="saragm94" /></p>
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/<saragm94>/<saragm94>/blob/output/github-contribution-grid-snake2.svg)
